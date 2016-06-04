@@ -1,10 +1,9 @@
 fileFormatVersion: 2
-guid: ab9976650a16b124e9cdb5db6e8dfa28
-timeCreated: 1465071691
+guid: 4b885c6806963a848947ec482cc53951
+timeCreated: 1465074710
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: laren_right_0
+  fileIDToRecycleName: {}
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -39,7 +38,7 @@ TextureImporter:
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -50,18 +49,7 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites:
-    - name: laren_right_0
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 1
-        width: 13
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+    sprites: []
     outline: []
   spritePackingTag: 
   userData: 
